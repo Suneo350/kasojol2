@@ -1,6 +1,6 @@
 {
-  "name": "Kas Ojol - Keuangan Driver",
-  "short_name": "Kas Ojol",
+  "name": "G2BR - Keuangan Driver",
+  "short_name": "G2BR",
   "description": "Catatan pemasukan, pengeluaran, target harian dan perawatan kendaraan untuk driver ojol. Bisa dipakai offline.",
   "id": "./",
   "start_url": "./index.html",
