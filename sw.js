@@ -1,6 +1,6 @@
 // Service worker Kas Ojol: cache-first agar jalan offline.
 // Naikkan VERSION setiap file diganti supaya HP memuat versi baru.
-const VERSION = 'kas-ojol-v3';
+const VERSION = 'kas-ojol-v4';
 const FILES = ['./', './index.html', './manifest.json', './favicon.ico',
   './icon-192.png', './icon-512.png', './icon-maskable-192.png', './icon-maskable-512.png',
   './apple-touch-icon.png', './favicon-32.png'];
